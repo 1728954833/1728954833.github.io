@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git     
   repo: https://github.com/1728954833/1728954833.github.io.git  
-  branch: main       
+  branch: master       
   message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}    
