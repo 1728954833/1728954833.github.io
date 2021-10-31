@@ -1,6 +1,11 @@
 ---
-title: test
-date: 2021-10-31 14:55:11
-tags:
+title: My awesome title
+date: 2016-10-12 18:38:45
+categories: 
+    - 分类1
+    - 分类2
+tags: 
+    - 标签1
+    - 标签2
 ---
 这只是一个测试
